@@ -61,13 +61,10 @@ The dashboard enables stakeholders to monitor operational efficiency, identify t
 
 ## 📷 Dashboard Preview
 
-### Dashboard Overview
-
-Add your dashboard screenshots below:
-
-```markdown
-![Dashboard Overview](Dashboard_overview.png)
-```
+## Dashboard Overview
+---
+![Dashboard Overview](https://raw.githubusercontent.com/ManavSapariya/Uber-Booking-Analytics-Dashboard/main/Dashboard_overview.png
+)
 
 ---
 
@@ -94,6 +91,4 @@ Add your dashboard screenshots below:
 - Optimize fleet utilization
 - Reduce booking cancellations
 - Support strategic decision-making
-
----
 
